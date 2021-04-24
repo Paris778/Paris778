@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="250" height="150" src="https://github.com/Paris778/Paris778/blob/main/graphics/kattoo.gif">
+<img align="right" width="250" height="150" src="https://github.com/Paris778/Paris778/blob/main/graphics/function.gif">
 <!--
 gif by Aurelia on We Heart It
 https://weheartit.com/entry/201368914
