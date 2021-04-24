@@ -8,8 +8,8 @@ Energetic self-starter and team builder able to navigate high-stress situations 
 modern systems and paradigms, experience working in a professional environment and to gain further
 professional experience in Artificial Intelligence, Data Science and Intelligent Systems.
 
-## Connect with me 🌎:
-LinkedIn : https://www.linkedin.com/in/paraskevas-solomou-007a011a0/
+## Connect with me 🌎: <img align="right" width="250" height="250" src="https://github.com/Paris778/Paris778/blob/main/graphics/function.gif">
+LinkedIn 💼 : https://www.linkedin.com/in/paraskevas-solomou-007a011a0/ 
 <!--
 Here are some ideas to get you started:
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="250" height="150" src="https://github.com/Paris778/Paris778/blob/main/graphics/function.gif">
+
 <!--
 gif by Aurelia on We Heart It
 https://weheartit.com/entry/201368914
