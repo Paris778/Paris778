@@ -1,7 +1,8 @@
-### Hello ! Welcome to my portfolio 👋
+# Hello ! Welcome to my profile 👋💻
+
+![Alt text](https://github.com/Paris778/Paris778/blob/main/graphics/githubGraphic.jpg "My Profile Banner")
 
 <!--
-**Paris778/Paris778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
+<img align="left" width="150" height="150" src="https://github.com/Paris778/Paris778/blob/main/graphics/kattoo.gif">
+<!--
 gif by Aurelia on We Heart It
 https://weheartit.com/entry/201368914
-
+-->
