@@ -1,4 +1,4 @@
-# Hello ! Welcome to my profile 👋💻
+## Hello ! Welcome to my profile 💻💻
 
 ![Alt text](https://github.com/Paris778/Paris778/blob/main/graphics/githubGraphic.jpg "My Profile Banner")
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" width="150" height="150" src="https://github.com/Paris778/Paris778/blob/main/graphics/kattoo.gif">
+<img align="right" width="250" height="150" src="https://github.com/Paris778/Paris778/blob/main/graphics/kattoo.gif">
 <!--
 gif by Aurelia on We Heart It
 https://weheartit.com/entry/201368914
