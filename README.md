@@ -12,8 +12,7 @@ professional experience in Artificial Intelligence, Data Science and Intelligent
 LinkedIn 💼 : https://www.linkedin.com/in/paraskevas-solomou-007a011a0/ 
 
 🤔 Can help with: AI projects and algorothm optimisation.
-  
-<br /><br /><br /> ![Profile views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FParis778)
+<br /><br /> ![Profile views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FParis778)
 
 <!--
 Here are some ideas to get you started:
