@@ -10,6 +10,8 @@ professional experience in Artificial Intelligence, Data Science and Intelligent
 
 ## Connect with me 🌎: <img align="right" width="150" height="150" src="https://github.com/Paris778/Paris778/blob/main/graphics/function.gif">
 LinkedIn 💼 : https://www.linkedin.com/in/paraskevas-solomou-007a011a0/ 
+
+🤔 Can help with: AI projects and algorothm optimisation.
   
 <br /><br /><br /> ![Profile views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FParis778)
 
@@ -27,7 +29,3 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
-gif by Aurelia on We Heart It
-https://weheartit.com/entry/201368914
--->
