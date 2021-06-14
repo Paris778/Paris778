@@ -1,4 +1,4 @@
-## Hello ! Welcome to my profile 💻💻
+## Hello ! Welcome to my Project Portfolio 💻💻
 
 ![Alt text](https://github.com/Paris778/Paris778/blob/main/graphics/githubGraphic.jpg "My Profile Banner")
 
