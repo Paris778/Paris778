@@ -1,6 +1,6 @@
 ## Hello ! Welcome to my Project Portfolio 💻💻
 
-![Alt text](https://github.com/Paris778/Paris778/blob/main/graphics/githubGraphic.png "My Profile Banner")
+![Alt text](https://github.com/Paris778/Paris778/blob/main/graphics/githubGraphic.jpg "My Profile Banner")
 
 Motivated Computer Science Graduate offering expertise in Data Analysis, Machine Learning and Software Development, with aptitude in AI
 Development and Object-Oriented Programming. 
